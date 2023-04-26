@@ -1,0 +1,3 @@
+# Simple Calculator
+
+Simple calculator for cross platform. It's support on google chrome, macOS, Windows and so many...

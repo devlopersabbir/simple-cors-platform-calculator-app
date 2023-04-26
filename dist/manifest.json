@@ -1,0 +1,25 @@
+{
+  "name": "Simple Calculator",
+  "description": "Simple calculator for cross platform. It's support on google chrome, macOS, Windows and so many...",
+  "version": "0.0.1",
+  "manifest_version": 3,
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png",
+    "256": "icon.png"
+  },
+  "action": {
+    "default_icon": {
+      "16": "icon.png",
+      "24": "icon.png",
+      "32": "icon.png"
+    },
+    "default_title": "Calclutor",
+    "default_popup": "index.html"
+  },
+  "background": {
+    "service_worker": "service-worker-loader.js",
+    "type": "module"
+  }
+}

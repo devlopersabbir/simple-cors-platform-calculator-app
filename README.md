@@ -11,7 +11,7 @@ However, here have **desktop** version, **macOS** version, **android** version, 
 ```console
 git clone https://github.com/devlopersabbir/simple-cors-platform-calculator-app.git
 ```
-And upload the dist folder into this url `[chrome://extensions](chrome://extensions)`
+And upload the dist folder into this url [chrome://extensions](chrome://extensions)
 
 ## How to use it?
 - Clone this repositorie with this command
@@ -23,5 +23,16 @@ git clone https://github.com/devlopersabbir/simple-cors-platform-calculator-app.
 cd simple-cors-platform-calculator-app && chrome-extension npm i && npm run build
 ```
 Note: When you clone this repositori then you got 3 folder called `android-and-iso-app` which is use [react-native](https://reactnative.dev/) and send one is `chrome-extension` which is use [CRXJS](https://crxjs.dev/vite-plugin/) and the last one is `electron-app` which is use [ElectronJs](https://www.electronjs.org/).
-#### License
+
+
+
+#### Author
+
+This package created by [Sabbir Hossain Shuvo](https://www.showwcase.com/devlopersabbir). And the GitHub profile is [https://github.com/devlopersabbir](https://github.com/devlopersabbir).
+
+#### LICENSE
+
 MIT
+
+For support just [Buy Me A Coffee](https://www.buymeacoffee.com/devlopersabbir)
+[https://www.buymeacoffee.com/devlopersabbir](https://www.buymeacoffee.com/devlopersabbir)
